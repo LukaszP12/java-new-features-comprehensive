@@ -1,4 +1,4 @@
-package pl.piwowarski.varFeatures;
+package pl.piwowarski.java10.varFeatures;
 
 import java.util.HashMap;
 import java.util.Map;
